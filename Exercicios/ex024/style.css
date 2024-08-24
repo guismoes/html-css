@@ -62,6 +62,11 @@ section.normal{
     color: black;
 }
 
+section.imagem > p {
+    color: white;
+
+}
+
 section >p{
     padding-bottom: 2em;
 }
